@@ -7,11 +7,11 @@ This project showcases my **work, skills, education, and personal interests** in
 
 ## 📂 Project Structure
 
-├── index.html # Main HTML file
-├── style.css # External CSS for styling
-├── images/ # Project and profile images
-├── scripts/ # JS scripts (optional)
-├── README.md # Project documentation
+├── index.html # Main HTML file  
+├── style.css # External CSS for styling  
+├── images/ # Project and profile images  
+├── scripts/ # JS scripts (optional)  
+├── README.md # Project documentation  
 
 
 ---
